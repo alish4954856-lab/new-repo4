@@ -1,2 +1,2 @@
 # new-repo4
-learning
+This is my first Git Repository. Alishba kk
